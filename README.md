@@ -10,9 +10,7 @@
   <a href="https://linkedin.com/in/sumanth-kateboina">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sumanthkateboina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sumanthkateboina%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-181717?style=for-the-badge&logo=github&logoColor=white" alt="Location" />
 </p>
 
