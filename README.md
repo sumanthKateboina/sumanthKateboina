@@ -99,16 +99,6 @@ An AI-driven career path architect and mock interview coach with real-time feedb
 
 ---
 
-
-## 🏆 Achievements
-
-| Recognition | Details |
-| :--- | :--- |
-| **Hackathon Winner** | Awarded first place for designing a local-first offline support chatbot. |
-| **Academic Honors** | Graduated in the top 5% of the Computer Science & Engineering batch. |
-
----
-
 ## 🎓 Certifications
 
 * **Microsoft Az900**: `Azure 900 fundamentals`
