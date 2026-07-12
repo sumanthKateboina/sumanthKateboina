@@ -34,10 +34,12 @@
 
 ## 💻 About Me
 
-I am an enterprise-grade **Software Engineer** specializing in full-stack architectures, high-performance API designs, and agentic AI systems. With a product engineering mindset, I translate specs into completely verified, scalable, local-first applications.
+Hi, I'm **Sumanth** — a **B.Tech CSE** student passionate about **AI**, **DSA**, and **Full Stack Development**. I enjoy building real-world projects and learning through consistent problem solving.
 
-* 🌐 **Full-Stack Stack**: Deep experience with Node.js, Express, React, Tailwind CSS, and MongoDB.
-* 🚀 **Open To**: Collaborating on enterprise AI solutions, SaaS development, and distributed backend designs.
+- 🧠 Exploring **AI** and intelligent applications
+- 📊 Practicing **DSA** regularly on coding platforms
+- 🌐 Building **full stack** projects with clean, scalable code
+- 🚀 Leveling up in **backend development** with Java.
 
 ---
 
