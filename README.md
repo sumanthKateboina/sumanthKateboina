@@ -45,22 +45,28 @@ Hi, I'm **Sumanth** — a **B.Tech CSE** student passionate about **AI**, **DSA*
 
 ## 🛠️ Tech Stack
 
+### Frontend
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,react,tailwind,nodejs,express,mongodb,git,github,vercel,postman" alt="Skill Icons" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 </p>
 
----
+### Backend
 
-## 🤖 AI / ML Expertise
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+</p>
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Agentic Pipelines** | Advanced | Multi-stage orchestration (Planner → Retriever → Task → Writer → Evaluator) |
-| **RAG Architectures** | Advanced | Cosine similarity ranking, vector mapping, and database-less keyword fallbacks |
-| **Local LLM Systems** | Intermediate | Local inference wrapping using Ollama (llama3.1:8b & nomic-embed-text) |
-| **Prompt Engineering** | Advanced | Structured JSON output templates, system prompt context isolation, self-correction |
+### Database
 
----
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+</p>
+
+
 
 ## 🚀 Featured Projects
 
