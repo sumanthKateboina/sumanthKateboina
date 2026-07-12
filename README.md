@@ -36,7 +36,6 @@
 
 I am an enterprise-grade **Software Engineer** specializing in full-stack architectures, high-performance API designs, and agentic AI systems. With a product engineering mindset, I translate specs into completely verified, scalable, local-first applications.
 
-* 🧠 **AI/ML Focus**: Building multi-agent orchestrations, vector embedding RAG platforms, and offline-first LLM fallbacks.
 * 🌐 **Full-Stack Stack**: Deep experience with Node.js, Express, React, Tailwind CSS, and MongoDB.
 * 🚀 **Open To**: Collaborating on enterprise AI solutions, SaaS development, and distributed backend designs.
 
