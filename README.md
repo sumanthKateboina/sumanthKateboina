@@ -99,15 +99,6 @@ An AI-driven career path architect and mock interview coach with real-time feedb
 
 ---
 
-## 💼 Experience
-
-#### **Software Engineer Intern**
-**NxtBiz** • *Jan 2026 - Present*
-* Developing modular backend API endpoints and schema models in MERN.
-* Collaborating on agentic automation connectors to orchestrate data syncs.
-* `#Node.js` `#React` `#MongoDB` `#REST_APIs` `#Git`
-
----
 
 ## 🏆 Achievements
 
@@ -120,10 +111,9 @@ An AI-driven career path architect and mock interview coach with real-time feedb
 
 ## 🎓 Certifications
 
-* **AWS**: `AWS Certified Cloud Practitioner`
-* **Oracle**: `Oracle Certified Associate Java SE 8 Programmer`
-* **NPTEL**: `Database Management Systems - Elite Gold`
-* **Cisco**: `Cybersecurity Essentials`
+* **Microsoft Az900**: `Azure 900 fundamentals`
+* **CCBP**: `Build own responsive website`
+
 
 ---
 
@@ -158,12 +148,6 @@ An AI-driven career path architect and mock interview coach with real-time feedb
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumanthKateboina&theme=onedark&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
