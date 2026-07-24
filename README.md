@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorStart=8b5cf6&customColorEnd=4f46e5&height=120&section=header&text=Sumanth%20Kateboina&fontSize=30&fontColor=ffffff&fontAlignY=40" alt="Sumanth Kateboina Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorStart=8b5cf6&customColorEnd=4f46e5&height=120&section=header&text=Sumanth%20Kateboina&fontSize=30&fontColor=ffffff&fontAlignY=40" alt="Sandeep Borigorla  Header" />
 </p>
 
 <p align="center">
